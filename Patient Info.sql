@@ -1,3 +1,5 @@
+/** Updated for Snowflake syntax, 8/14/24 **/
+
 SELECT DISTINCT t1.PatientID,
                 t2.PatientEncounterID,
 				t1.PatientNM,
@@ -30,11 +32,11 @@ SELECT DISTINCT t1.PatientID,
 				t1.CountyDSC, 
 				t1.CountryDSC, 
 				t1.ZipCD
-FROM Epic.Patient.Patient_MGH t1
-                RIGHT JOIN Epic.Encounter.PatientEncounter_MGH t2 on (t1.PatientID=t2.PatientID)
-                LEFT JOIN Epic.Patient.Race_MGH t3 on (t1.PatientID=t3.PatientID)
-                LEFT JOIN Epic.Patient.Patient4_MGH t4 on t4.PatientID=t2.PatientID
-WHERE t2.PatientEncounterID in () -- Encounter CSN
+FROM EDW_Source_Zone_Epic.Patient_Clinical.Patient t1
+                RIGHT JOIN EDW_Source_Zone_Epic.Encounter_Clinical.PatientEncounter t2 on (t1.PatientID=t2.PatientID)
+                LEFT JOIN EDW_Source_Zone_Epic.Patient_Clinical.Race t3 on (t1.PatientID=t3.PatientID)
+                LEFT JOIN EDW_Source_Zone_Epic.Patient_Clinical.Patient4 t4 on t4.PatientID=t2.PatientID
+WHERE t2.PatientEncounterID in (' ') -- Encounter CSN
 
 /** t2.EncounterTypeCD Dictionary **/
 /**
