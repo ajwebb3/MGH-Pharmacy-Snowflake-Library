@@ -12,9 +12,9 @@ SELECT t1.OrderID,
 	   t3.OrderProcedureID,
 	   t3.LineNBR,
 	   t3.NarrativeTXT
-  FROM [Epic].[Orders].[Imaging_MGH] t1
-  INNER JOIN Epic.Orders.Procedure_MGH t2 on (t1.OrderID = t2.OrderProcedureID)
-  INNER JOIN Epic.Orders.Narrative_MGH t3 on (t2.OrderProcedureID = t3.OrderProcedureID)
+  FROM EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Imaging t1
+  INNER JOIN EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Procedure t2 on (t1.OrderID = t2.OrderProcedureID)
+  INNER JOIN EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Narrative t3 on (t2.OrderProcedureID = t3.OrderProcedureID)
   WHERE t1.ProcedureID in () 
 
 /** ProcedureID Dictionary **/

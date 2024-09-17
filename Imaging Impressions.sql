@@ -1,8 +1,20 @@
-SELECT t1.OrderID, t1.PatientNameMRN, t1.StudyStatusDSC, t1.StudyStatusCD,t1.ExamStartDTS,t1.ExamEndDTS,t1.FinalizedProviderDTS,t1.ProcedureNM,t1.ProcedureCD,t3.OrderProcedureID,t3.LineNBR,t3.ImpressionTXT
-  FROM [Epic].[Orders].[Imaging_MGH] t1
-  INNER JOIN Epic.Orders.Procedure_MGH t2 on (t1.OrderID = t2.OrderProcedureID)
-  INNER JOIN Epic.Orders.Impression_MGH t3 on (t2.OrderProcedureID = t3.OrderProcedureID)
-  WHERE t1.ProcedureID in () 
+SELECT t1.OrderID,
+       t1.PatientID,
+       t1.PatientNameMRN, 
+       t1.StudyStatusDSC,
+       t1.StudyStatusCD,
+       t1.ExamStartDTS,
+       t1.ExamEndDTS,
+       t1.FinalizedProviderDTS,
+       t1.ProcedureNM,
+       t1.ProcedureCD,
+       t3.OrderProcedureID,
+       t3.LineNBR,
+       t3.ImpressionTXT
+  FROM EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Imaging as t1
+  INNER JOIN EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Procedure t2 on (t1.OrderID = t2.OrderProcedureID)
+  INNER JOIN EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Impression t3 on (t2.OrderProcedureID = t3.OrderProcedureID)
+  WHERE t1.ProcedureID in ('') 
 
 /** ProcedureID Dictionary **/
 /**

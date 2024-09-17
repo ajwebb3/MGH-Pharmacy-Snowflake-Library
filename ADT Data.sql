@@ -5,9 +5,10 @@ SELECT DISTINCT PatientID,
                 ADTEventSubtypeDSC,
                 EffectiveDTS,
                 PatientServiceDSC
-	   FROM Epic.Encounter.ADT_MGH
+	   FROM EDW_SOURCE_ZONE_EPIC.Encounter_Clinical.ADT
        where (ADTEventTypeDSC = 'Admission' or ADTEventTypeDSC = 'Transfer In' or ADTEventTypeDSC = 'Discharge' or ADTEventTypeDSC = 'Transfer Out') 
-       and ADTEventSubtypeCD != '2' /** Is not canceled **/and PatientEncounterID in () /** and DepartmentID in () **/
+       and ADTEventSubtypeCD != '2' /** Is not canceled **/
+       and PatientEncounterID in () /** and DepartmentID in () **/
        ORDER BY PatientID, PatientEncounterID, EffectiveDTS
 
 /** DepartmentID Dictionary **/
