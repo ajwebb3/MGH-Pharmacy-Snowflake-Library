@@ -8,6 +8,9 @@ tags:
 
 ## Remaining Data Elements to Process
 - [ ] Amount of fluid administered in the 24 hours prior to angiotensin II administration
+	- Pulled flowsheet rows of all Volume documentation
+	- Notably, vent tidal volume also gets pulled using the syntax "t4.displaynm like '%Volume (ml)%' or t4.FlowsheetMeasureNM = 'R IP BLOOD ADMINISTRATION VOLUME'" and thus this needs to get filtered off in post
+		- Blood is called out specifically because the fidp
 - [ ] Type of fluid administered (NS/LR/D5/Albumin)
 - [x] Cardiac index at the time of ang II initiation
 	- Processed as within 2 hours of ang II initiation
