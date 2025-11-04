@@ -20,7 +20,7 @@ tags:
 - [x] Time ang II ended
 - [x] Maximum ang II rate in the first 3 hours of infusion
 - [x] ICU LOS
-- [ ] Vasopressors on at 0.5, 1, 2, 4, 6, 12, and 24 hours and their doses
+- [x] Vasopressors on at 0.5, 1, 2, 4, 6, 12, and 24 hours and their doses
 - [x] Whether ang II was restarted at least 24 hours from initial discontinuation
 - [ ] Whether a MAP of 65 was achieved within 3 hours of initiation
 - [ ] Whether MAP increased by 10 mmHg or more within 3 hours
