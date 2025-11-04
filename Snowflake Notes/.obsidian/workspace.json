@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Note.md",
+                "file": "Angiotensin II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Note"
+              "title": "Angiotensin II"
             }
           }
         ],
@@ -198,6 +198,6 @@
   "active": "9cb60ca754bb22dd",
   "lastOpenFiles": [
     "Welcome.md",
-    "Test Note.md"
+    "Angiotensin II.md"
   ]
 }
