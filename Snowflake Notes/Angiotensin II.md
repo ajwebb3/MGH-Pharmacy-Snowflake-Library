@@ -11,4 +11,12 @@ tags:
 - [ ] Type of fluid administered (NS/LR/D5)
 - [ ] Cardiac index at the time of ang II initiation
 - [ ] CVP at the time of ang II initiation
-- [ ] Time ang II r
+- [ ] Time ang II ordered
+- [ ] Time ang II ended
+- [ ] Maximum ang II rate in the first 3 hours of infusion
+- [ ] ICU LOS
+- [ ] Vasopressors on at 0.5, 1, 2, 4, 6, 12, and 24 hours and their doses
+- [ ] Whether ang II was restarted at least 24 hours from initial discontinuation
+- [ ] Whether a MAP of 65 was achieved within 3 hours of initiation
+- [ ] Whether MAP increased by 10 mmHg or more within 3 hours
+- [ ] Whether NE equivalents decreased by 20% or more within 3 hours
