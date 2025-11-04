@@ -17,7 +17,7 @@ tags:
 - [x] CVP at the time of ang II initiation
 	- Also within 2 hours
 - [x] Time ang II ordered
-- [ ] Time ang II ended
+- [x] Time ang II ended
 - [ ] Maximum ang II rate in the first 3 hours of infusion
 - [ ] ICU LOS
 - [ ] Vasopressors on at 0.5, 1, 2, 4, 6, 12, and 24 hours and their doses
