@@ -7,11 +7,11 @@ tags:
 [[MUE]] evaluating MGB's institutional adherence to angiotensin II restriction criteria. Snowflake used to extract relevant objective information with supplemental chart review for key outcomes. Primary pull completed In June 2025 for patients who received angiotensin II from Epic initiation (December 2015) through June 10th, 2025.
 
 ## Remaining Data Elements to Process
-- [ ] Amount of fluid administered in the 24 hours prior to angiotensin II administration
+- [x] Amount of fluid administered in the 24 hours prior to angiotensin II administration
 	- Pulled flowsheet rows of all Volume documentation
 	- Notably, vent tidal volume also gets pulled using the syntax "t4.displaynm like '%Volume (ml)%' or t4.FlowsheetMeasureNM = 'R IP BLOOD ADMINISTRATION VOLUME'" and thus this needs to get filtered off in post
 		- Blood is called out specifically because the display name is just "volume", not "volume (mL)"
-- [ ] Type of fluid administered (NS/LR/D5/Albumin)
+- [x] Type of fluid administered (NS/LR/D5/Albumin)
 - [x] Cardiac index at the time of ang II initiation
 	- Processed as within 2 hours of ang II initiation
 - [ ] CVP at the time of ang II initiation
