@@ -1,0 +1,34 @@
+select t1.OrderProcedureID, 
+       t1.ResultDateDTS, 
+       t1.PatientID, 
+       t1.PatientEncounterID, 
+       t1.ResultTXT, 
+       t1.ResultValueNBR, 
+       1.ReferenceRangeUnitCD, 
+       t1.ResultDTS,
+       t2.SpecimenTakenTimeDTS, 
+       t2.PatientLocationDSC, 
+       t3.ComponentID, 
+       t3.ComponentNM, 
+       t3.ComponentAbbreviationTXT, 
+       t3.BaseNM 
+from EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Result t1
+left join EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Procedure2 t2 on t1.OrderProcedureID=t2.OrderProcedureID 
+left join EDW_SOURCE_ZONE_EPIC.Reference.Component t3 on t1.ComponentID=t3.ComponentID
+/**Enter BaseNM of labs of interest here
+If multiple needed, change = to in and list separated by comma (e.g. t3.BaseNM in ('ALB', 'CRE')) **/
+where (t3.BaseNM = 'PTT')
+and (t1.ResultValueNBR >= 120)
+/** If there are specific CSNs of interest, enter here, separated by comma **/
+and t1.PatientEncounterID in (SELECT DISTINCT t1.PatientEncounterID
+FROM EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Medication as t1
+left join EDW_SOURCE_ZONE_EPIC.Clinical.AdministeredMedication t2 on t1.OrderID=t2.OrderID
+inner join EDW_SOURCE_ZONE_EPIC.Reference.Medication t3 on t1.MedicationID=t3.MedicationID
+where t1.OrderStatusCD  in (5,2,9,10) 
+/**Removing irrelevant MAR actions **/
+and MARActionCD != 2 and MARActionCD != 10 and MARActionCD != 11 and MARActionCD != 1001 and MARActionCD !=99 and MARActionCD != 1002 and MARActionCD != 4
+/**Enter one or multiple CSNs here **/
+and t1.MEDICATIONDISPLAYNM like 'heparin%' and
+t1.DiscreteFrequencyDSC = 'Continuous')
+/** If there is a date range of interest, enter here (YYYY-MM-DD format). Delete if not. **/
+and t2.SpecimenTakenTimeDTS > '2025-03-01' 
