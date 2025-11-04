@@ -10,6 +10,7 @@ tags:
 - [ ] Amount of fluid administered in the 24 hours prior to angiotensin II administration
 - [ ] Type of fluid administered (NS/LR/D5)
 - [ ] Cardiac index at the time of ang II initiation
+	- Processed as within 2 hours of ang II initaition
 - [ ] CVP at the time of ang II initiation
 - [ ] Time ang II ordered
 - [ ] Time ang II ended
