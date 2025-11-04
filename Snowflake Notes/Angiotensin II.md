@@ -16,7 +16,7 @@ tags:
 	- Processed as within 2 hours of ang II initiation
 - [x] CVP at the time of ang II initiation
 	- Also within 2 hours
-- [ ] Time ang II ordered
+- [x] Time ang II ordered
 - [ ] Time ang II ended
 - [ ] Maximum ang II rate in the first 3 hours of infusion
 - [ ] ICU LOS
