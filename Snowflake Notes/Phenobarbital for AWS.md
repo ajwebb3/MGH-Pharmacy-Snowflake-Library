@@ -6,7 +6,7 @@ tags:
 ## Preliminary Meeting
 - Meeting with Morgan and Natasha about Snowflake support for her PGY2 research project
 - Having trouble getting adequate data from SD
-- Comparing oral taper vs no taper for AWS
+- Comparing oral taper vs no taper for AWS in patients who received at least 10 mg/kg of PHB
 - **Primary Outcome:** ICU LOS based on whether or not a taper
 	- **Secondary Outcomes:** Cumulative doses and adjunctive doses
 - Large sample size (~1700 patients)
