@@ -6,7 +6,12 @@ tags:
 ## Prelim Meeting
 - Would like outcome based data like bleeding and clotting events
 - Utilization is another area of interest
-	- AA, PCC, blood factor 
+	- AA, PCC, blood factor utilization
+	- Monthly report etc
+		- Orders, indications, demographics
+- Cangrelor utilization is another stewardship area of interest
+	- Indication and duration of use
+- Hgb drops
 
 
 |                                                        |     |                                                                                                                                                                                                                                                                                                                                                                                                                      |
