@@ -14,3 +14,4 @@
 	- Everything is codes (ie MAR action code, sig code, etc are all numeric. Will need to find reference tables.)
 		- EDW_SOURCE_ZONE_CLARITY.Common.ZC_MAR_RSLT stores the codes for MAR actions (mar_action_c = result_c)
 - EDW_SOURCE_ZONE_CLARITY.Clinical.ORDER_MED_SIG only seems to include SIG instructions for actual outpatient scripts
+	- SIG in MAR_ADMIN_INFO is the dose it seems
