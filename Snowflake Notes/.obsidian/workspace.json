@@ -217,9 +217,19 @@
               "icon": "lucide-ghost",
               "title": "git-view"
             }
+          },
+          {
+            "id": "04271575bf4870a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -234,13 +244,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "d1a7ba91405c1a1d",
   "lastOpenFiles": [
-    "Thrombosis and Hemostasis.md",
+    "Untitled.md",
     "Scratch Notes for Clarity Transition.md",
+    "Thrombosis and Hemostasis.md",
     "Phenobarbital for AWS.md",
     "Angiotensin II.md",
     "ICU LOS R Code.md",
