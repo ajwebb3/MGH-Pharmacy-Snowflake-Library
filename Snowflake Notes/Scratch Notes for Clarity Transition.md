@@ -1,5 +1,7 @@
 - EDW_SOURCE_ZONE_CLARITY.Common.Clarity_Medication
 	- List of medication names with primary key being MEDICATION_ID
 	- Seems similar to EDW_SOURCE_ZONE_EPIC.Reference.Medication
-- EDW_SOURCE_ZONE_CLARIFY.Common.Orders
+- EDW_SOURCE_ZONE_CLARITY.Clinical.Orders
 	- Has primary key of ORDER_ID, seems similar to EDW_SOURCE_ZONE_EPIC.Orders_Clinical but perhaps not as specific as the subfolders within that?
+	- Has PAT_ID as a link
+	- Not specific to meds, has no link to medication ID
