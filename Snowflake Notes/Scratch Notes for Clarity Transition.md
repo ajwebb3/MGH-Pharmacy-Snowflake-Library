@@ -11,3 +11,4 @@
 	- Also has PAT_ID, PAT_ENC_CSN_ID (CSN), and MEDICATION ID
 - EDW_SOURCE_ZONE_CLARITY.Clinical.MAR_ADMIN_INFO
 	- Seems to be akin to EDW_SOURCE_ZONE_EPIC.Clinical.AdministeredMedication
+	- Everything is codes (ie MAR action code, sig code, etc are all numeric. Will need to find reference tables.)
