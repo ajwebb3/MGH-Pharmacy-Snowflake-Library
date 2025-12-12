@@ -33,5 +33,6 @@
 | 128      | Same Bag                |
 		- EDW_SOURCE_ZONE_CLARITY.COMMON.ZC_ROUTE is the reference table for route it seems
 			- An unusual number of administrations seem to be linked to Other/Misc route? Need to look into that
+			- Turns out there is a separate EDW_SOURCE_ZONE_CLARITY.COMMON.ZC_ADMIN_ROUTE that has the right data
 - EDW_SOURCE_ZONE_CLARITY.Clinical.ORDER_MED_SIG only seems to include SIG instructions for actual outpatient scripts
 	- SIG in MAR_ADMIN_INFO is the dose it seems
