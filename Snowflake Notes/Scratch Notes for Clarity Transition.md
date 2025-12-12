@@ -5,3 +5,9 @@
 	- Has primary key of ORDER_ID, seems similar to EDW_SOURCE_ZONE_EPIC.Orders_Clinical but perhaps not as specific as the subfolders within that?
 	- Has PAT_ID as a link
 	- Not specific to meds, has no link to medication ID
+- EDW_SOURCE_ZONE_CLARITY.Clinical.Order_Med 
+	- Seems to be most akin to EDW_SOURCE_ZONE_EPIC.Orders_Clinical.Medications
+	- Has Order_Med_ID as primary key that appears to link to Order_ID
+	- Also has PAT_ID, PAT_ENC_CSN_ID (CSN), and MEDICATION ID
+- EDW_SOURCE_ZONE_CLARITY.Clinical.MAR_ADMIN_INFO
+	- Seems to be akin to EDW_SOURCE_ZONE_EPIC.Clinical.AdministeredMedication
