@@ -12,18 +12,17 @@ tags:
 - Large sample size (~1700 patients)
 ## Data Request List
 ### Flowsheets
-- [ ] height (cm) 
-- [ ] weight at admission (kg) 
-- [ ] actual body weight 
-- [ ] ideal body weight 
-- [ ] adjusted body weight 
-- [ ] Initial CIWA score (before PHB) Initial RASS score 
-- [ ] CIWA score (after PHB) ≥ 24 hours
-- [ ] RASS score (after PHB) ≥24 hours
-- [ ] Ketamine volume 
-- [ ] Dexmedetomidine volume 
-- [ ] Propofol volume
-- [ ] Need for Intubation After IV Phenobarbital Load (Y/N) 
+- [ ] height (cm) - 11
+- [ ] weight at admission (kg) - 14
+	- actual body weight 
+	- ideal body weight 
+	- adjusted body weight 
+- [ ] CIWA - 398000, 398011, 1570400311
+- [ ] RASS score (after PHB) ≥24 hours - 3040900001
+- [ ] Ketamine volume - 3040101262
+- [ ] Dexmedetomidine volume - 3040101250
+- [ ] Propofol volume - 331218
+- [ ] Need for Intubation After IV Phenobarbital Load (Y/N) - 301030
 - [ ] Duration of Mechanical Ventilation
 ### ADT
 - [ ] length of ICU stay (days)
