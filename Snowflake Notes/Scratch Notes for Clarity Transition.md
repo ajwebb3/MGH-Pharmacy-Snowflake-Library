@@ -70,3 +70,6 @@
 - DEPARTMENT_ID links to COMMON.CLARITY_DEP
 
 ## Flowsheet Data
+- Starting with tables and working down
+	- EDW.FlowsheetRecordLink appears to be similar to CLINICAL.IP_FLWSHT_REC
+		- Primary key: FSD_ID (presumably flowsheet data ID?)
