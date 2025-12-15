@@ -3,7 +3,7 @@ tags:
   - Research
   - PGY2
 ---
-
+- Want patients who have been on 48h of ppx or 7 days of tx for all of MGH or BWH for posa, isa, or ampho (systemic only)
 
 ## Smartsheet Entry
 |                                                        |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
