@@ -73,3 +73,5 @@
 - Starting with tables and working down
 	- EDW.FlowsheetRecordLink appears to be similar to CLINICAL.IP_FLWSHT_REC
 		- Primary key: FSD_ID (presumably flowsheet data ID?)
+		- This also contains PAT_ID
+		- Doesn't seem to have minute-level times
