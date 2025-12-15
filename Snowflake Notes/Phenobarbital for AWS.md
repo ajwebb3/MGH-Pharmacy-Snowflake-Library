@@ -34,15 +34,15 @@ tags:
 - [ ] History of having a psychiatric disorders (e.g., anxiety, depression) 
 - [ ] Substance use disorder Initial serum EtOH on admission 
 ### Medications
-- [ ] IV/IM Phenobarbital Cumulative Dose (mg/kg IBW) Adjunct Agents 
-- [ ] Benzodiazepines (lorazepam, diazepam, midazolam; convert to lorazepam equivalents) 
-- [ ] Ketamine 
-- [ ] Dexmedetomidine 
-- [ ] Propofol 
-- [ ] Opioids (hydromorphone, morphine, fentanyl, oxycodone; convert to morphine equivalents) 
-- [ ] Antipsychotics (haloperidol, olanzapine, quetiapine, chlorpromazine)
-- [ ] Gabapentin 
-- [ ] Clonidine 
+- [x] IV/IM Phenobarbital Cumulative Dose (mg/kg IBW) Adjunct Agents 
+- [x] Benzodiazepines (lorazepam, diazepam, midazolam; convert to lorazepam equivalents) 
+- [x] Ketamine 
+- [x] Dexmedetomidine 
+- [x] Propofol 
+- [x] Opioids (hydromorphone, morphine, fentanyl, oxycodone; convert to morphine equivalents) 
+- [x] Antipsychotics (haloperidol, olanzapine, quetiapine, chlorpromazine)
+- [x] Gabapentin 
+- [x] Clonidine 
 ### Patient Data
 - [ ] In-hospital Mortality (Y/N)
 

@@ -49,8 +49,7 @@
               "title": "MAR Action Codes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88bcb8c91985b258",
+  "active": "bb9e1dfc1e496c82",
   "lastOpenFiles": [
-    "Scratch Notes for Clarity Transition.md",
     "MAR Action Codes.md",
+    "Scratch Notes for Clarity Transition.md",
     "Phenobarbital for AWS.md",
     "Breakthrough Mold Infections.md",
     "Polycthemia Vera.md",
