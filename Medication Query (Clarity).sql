@@ -27,4 +27,9 @@ left join EDW_SOURCE_ZONE_CLARITY.Common.ZC_SITE t10 on t2.site_c = t10.site_c
 left join EDW_SOURCE_ZONE_CLARITY.Common.IP_FREQUENCY t11 on t1.hv_discr_freq_id = t11.freq_id
 left join EDW_SOURCE_ZONE_CLARITY.COMMON.CLARITY_DEP t12 on t2.mar_admin_dept_id = t12.department_id
 where t1.pat_enc_csn_id in ()
+and t2.mar_action_c in (1, 1000, 1003, 1007, 102, 104, 105,
+                        110, 112, 113, 114, 115, 116, 117,
+                        118, 119, 12, 121, 122, 123, 124,
+                        125, 126, 127, 128, 13, 130, 131, 
+                        133, 134, 14, 16, 6, 7, 8, 9)
 order by pat_enc_csn_id, taken_time
