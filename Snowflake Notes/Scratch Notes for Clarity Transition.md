@@ -75,3 +75,4 @@
 		- Primary key: FSD_ID (presumably flowsheet data ID?)
 		- This also contains PAT_ID
 		- Doesn't seem to have minute-level times
+		- RecordedDTS from EDW seems to be contained in CLINICAL.IP_FLWSHT_MEAS (linked to FSD_ID)
