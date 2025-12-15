@@ -1,10 +1,10 @@
-select t1.PatientEncounterID, 
-       t1.patientid, 
-	   t1.linenbr,
-	   t1.AdmitDiagnosisTXT, 
-	   t2.DiagnosisID, 
-	   t2.DiagnosisNM, 
-	   t2.CurrentICD10ListTXT 
-from EDW_SOURCE_ZONE_Epic.Encounter_Clinical.HospitalAdmitDiagnosis as t1
-left join EDW_SOURCE_ZONE_Epic.Reference.ICDDiagnosis as t2 on t1.DiagnosisID = t2.DiagnosisID 
-where PatientEncounterID in ()
+SELECT DISTINCT t1.problemlist_id,
+                t1.pat_id,
+				t1.dx_id, 
+				t2.CURRENT_ICD10_LIST, 
+				t2.dx_name,
+				t1.DIAG_START_DATE,
+				t1.RESOLVED_DATE
+FROM EDW_SOURCE_ZONE_CLARITY.Clinical.Problem_List t1 
+INNER JOIN EDW_SOURCE_ZONE_CLARITY.COMMON.CLARITY_EDG t2 on (t1.dx_id=t2.dx_id) 
+WHERE t1.pat_id in ()
