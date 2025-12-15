@@ -48,3 +48,8 @@
 		- Clarity column name: DX_ID
 		- Lives both in HSP_ADMIT_DIAG and Common.CLARITY_EDG
 			- This table seems to contain CURRENT_ICD10_LIST too
+
+## Admission Data
+- Primary table seems to be Clinical.Clarity_ADT
+- Like meds, it's going to require a bunch of joins
+	- EVENT_TYPE_C joins to COMMON.EVENT 
