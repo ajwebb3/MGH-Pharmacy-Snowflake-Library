@@ -68,3 +68,5 @@
 | 10           | Leave of Absence Census | LEAVE OF ABSENCE CENSUS | LOA Census   |
 | 1600009002   | Bed Assigned            | BED ASSIGNED            | Bed Assign   |
 - DEPARTMENT_ID links to COMMON.CLARITY_DEP
+
+## Flowsheet Data
