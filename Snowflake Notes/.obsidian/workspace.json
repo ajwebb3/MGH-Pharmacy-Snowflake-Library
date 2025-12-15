@@ -63,8 +63,7 @@
               "title": "MAR Action Codes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,14 +222,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06b405338084920b",
+  "active": "bb9e1dfc1e496c82",
   "lastOpenFiles": [
-    "Breakthrough Mold Infections.md",
-    "Sex Codes.md",
     "Scratch Notes for Clarity Transition.md",
-    "Phenobarbital for AWS.md",
     "MAR Action Codes.md",
     "Polycthemia Vera.md",
+    "Breakthrough Mold Infections.md",
+    "Sex Codes.md",
+    "Phenobarbital for AWS.md",
     "Thrombosis and Hemostasis.md",
     "Angiotensin II.md",
     "ICU LOS R Code.md",

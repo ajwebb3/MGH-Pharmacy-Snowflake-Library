@@ -2,7 +2,10 @@
 tags:
   - Research
 ---
-
+## Next Steps
+- May need to trim list being sent based on criteria they will send
+- They don't want labs immediately post-dose, so will define some lag period of interest
+- Recognize that thrombosis is not something I can easily get
 
 ## Smartsheet Entry
 |                                                        |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
