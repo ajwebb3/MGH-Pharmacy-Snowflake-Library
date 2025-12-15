@@ -1,3 +1,4 @@
+## Med Data
 - EDW_SOURCE_ZONE_CLARITY.Common.Clarity_Medication
 	- List of medication names with primary key being MEDICATION_ID
 	- Seems similar to EDW_SOURCE_ZONE_EPIC.Reference.Medication
@@ -36,3 +37,12 @@
 			- Turns out there is a separate EDW_SOURCE_ZONE_CLARITY.COMMON.ZC_ADMIN_ROUTE that has the right data
 - EDW_SOURCE_ZONE_CLARITY.Clinical.ORDER_MED_SIG only seems to include SIG instructions for actual outpatient scripts
 	- SIG in MAR_ADMIN_INFO is the dose it seems
+
+## Diagnosis Data
+- Recreating the "Admission Diagnosis" query
+	- First column: AdmitDiagnosisTXT
+		- Clarity column name: ADMIT_DIAG_TEXT
+		- Clarity column name: Clinical.HSP_ADMIT_DIAG
+			- Primary keys: PAT_ID, PAT_ENC_CSN_ID
+	- Second column: DiagnosisID
+		- Clarity column name: DX_ID
