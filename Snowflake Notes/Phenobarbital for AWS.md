@@ -11,25 +11,31 @@ tags:
 	- **Secondary Outcomes:** Cumulative doses and adjunctive doses
 - Large sample size (~1700 patients)
 ## Data Request List
+### Flowsheets
 - [ ] height (cm) 
 - [ ] weight at admission (kg) 
 - [ ] actual body weight 
 - [ ] ideal body weight 
 - [ ] adjusted body weight 
+- [ ] Initial CIWA score (before PHB) Initial RASS score 
+- [ ] CIWA score (after PHB) ≥ 24 hours
+- [ ] RASS score (after PHB) ≥24 hours
+- [ ] Ketamine volume 
+- [ ] Dexmedetomidine volume 
+- [ ] Propofol volume
+- [ ] Need for Intubation After IV Phenobarbital Load (Y/N) 
+- [ ] Duration of Mechanical Ventilation
+### ADT
 - [ ] length of ICU stay (days)
 - [ ] length of hospital stay (days)
-- [ ] Relevant PMH 
+- [ ] Self-directed Discharge (Y/N)
+### Problem List/ICD 
 - [ ] Relevant Neurological PMH 
 - [ ] History of alcohol use disorder 
-- [ ] History of withdrawal seizures 
-- [ ] History of delirium tremens 
 - [ ] History of having a psychiatric disorders (e.g., anxiety, depression) 
 - [ ] Substance use disorder Initial serum EtOH on admission 
-- [ ] some encounters may report this Initial CIWA score (before PHB) Initial RASS score 
-Outcome results:
-- [ ] ICU Length of Stay Complications from AWS: seizure, delirium tremens 
+### Medications
 - [ ] IV/IM Phenobarbital Cumulative Dose (mg/kg IBW) Adjunct Agents 
-- [ ] Administered After IV Phenobarbital Load (Y/N and cumulative dose per ICU day): 
 - [ ] Benzodiazepines (lorazepam, diazepam, midazolam; convert to lorazepam equivalents) 
 - [ ] Ketamine 
 - [ ] Dexmedetomidine 
@@ -38,11 +44,8 @@ Outcome results:
 - [ ] Antipsychotics (haloperidol, olanzapine, quetiapine, chlorpromazine)
 - [ ] Gabapentin 
 - [ ] Clonidine 
-- [ ] CIWA score (after PHB) ≥ 24 hours --> Might need to do a repeating instrument for this? unsure how this would look or what would be feasible? 
-RASS score (after PHB) ≥24 hours --> Might need to do a repeating instrument for this? unsure how this would look or what would be feasible? 
-- Need for Intubation After IV Phenobarbital Load (Y/N) 
-- Duration of Mechanical Ventilation Hospitalization Outcomes - Hospital Length of Stay (LOS) 
-- In-hospital Mortality (Y/N) - Self-directed Discharge (Y/N)
+### Patient Data
+- [ ] In-hospital Mortality (Y/N)
 
 
 | **Preferred Meeting Date and Time**                    | November 5th 8am-12pm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
