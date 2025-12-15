@@ -52,4 +52,18 @@
 ## Admission Data
 - Primary table seems to be Clinical.Clarity_ADT
 - Like meds, it's going to require a bunch of joins
-	- EVENT_TYPE_C joins to COMMON.EVENT 
+	- EVENT_TYPE_C joins to COMMON.ZC_EVENT_TYPE:
+
+| EVENT_TYPE_C | NAME                    | TITLE                   | ABBR         |
+|--------------|-------------------------|-------------------------|--------------|
+| 1            | Admission               | ADMISSION               | Admission    |
+| 2            | Discharge               | DISCHARGE               | Discharge    |
+| 3            | Transfer In             | TRANSFER IN             | Transfer In  |
+| 4            | Transfer Out            | TRANSFER OUT            | Transfer Out |
+| 5            | Patient Update          | PATIENT UPDATE          | Pt Update    |
+| 6            | Census                  | CENSUS                  | Census       |
+| 7            | Hospital Outpatient     | HOSPITAL OUTPATIENT     | Hosp Outpt   |
+| 8            | Leave of Absence Out    | LEAVE OF ABSENCE OUT    | LOA Out      |
+| 9            | Leave of Absence Return | LEAVE OF ABSENCE RETURN | LOA Return   |
+| 10           | Leave of Absence Census | LEAVE OF ABSENCE CENSUS | LOA Census   |
+| 1600009002   | Bed Assigned            | BED ASSIGNED            | Bed Assign   |
