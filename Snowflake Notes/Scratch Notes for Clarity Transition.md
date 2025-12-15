@@ -46,3 +46,5 @@
 			- Primary keys: PAT_ID, PAT_ENC_CSN_ID
 	- Second column: DiagnosisID
 		- Clarity column name: DX_ID
+		- Lives both in HSP_ADMIT_DIAG and Common.CLARITY_EDG
+			- This table seems to contain CURRENT_ICD10_LIST too
