@@ -1,0 +1,8 @@
+select t1.PAT_ENC_CSN_ID, 
+		t1.ADMIT_DIAG_TEXT, 
+		t2.DX_ID, 
+		t2.DX_NAME, 
+		t2.CURRENT_ICD10_LIST 
+from EDW_SOURCE_ZONE_CLARITY.CLINICAL.HSP_ADMIT_DIAG as t1
+                   left join EDW_SOURCE_ZONE_CLARITY.COMMON.CLARITY_EDG as t2 on t1.DX_ID = t2.DX_ID 
+                   where PAT_ENC_CSN_ID IN ( )
