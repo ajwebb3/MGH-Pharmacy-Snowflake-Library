@@ -25,12 +25,14 @@
             "id": "4d66876437845f54",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Phenobarbital for AWS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Phenobarbital for AWS"
             }
           }
         ],
@@ -204,7 +206,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ed2d0d70030f92c",
+  "active": "4d66876437845f54",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Sex Codes.md",
