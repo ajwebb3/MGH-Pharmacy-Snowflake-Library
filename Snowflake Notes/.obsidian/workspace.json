@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Scratch Notes for Clarity Transition"
             }
+          },
+          {
+            "id": "4d66876437845f54",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1a7ba91405c1a1d",
+  "active": "4d66876437845f54",
   "lastOpenFiles": [
     "Thrombosis and Hemostasis.md",
     "Scratch Notes for Clarity Transition.md",
