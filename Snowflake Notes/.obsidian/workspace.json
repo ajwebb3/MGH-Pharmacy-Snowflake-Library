@@ -41,7 +41,7 @@
               "state": {
                 "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "conflict-files-obsidian-git"
