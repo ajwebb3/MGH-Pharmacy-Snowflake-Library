@@ -32,10 +32,10 @@ tags:
 - [x] length of hospital stay (days)
 - [ ] Self-directed Discharge (Y/N)
 ### Problem List/ICD 
-- [ ] Relevant Neurological PMH 
-- [ ] History of alcohol use disorder 
-- [ ] History of having a psychiatric disorders (e.g., anxiety, depression) 
-- [ ] Substance use disorder Initial serum EtOH on admission 
+- [x] Relevant Neurological PMH 
+- [x] History of alcohol use disorder 
+- [x] History of having a psychiatric disorders (e.g., anxiety, depression) 
+- [x] Substance use disorder Initial serum EtOH on admission 
 ### Medications
 - [x] IV/IM Phenobarbital Cumulative Dose (mg/kg IBW) Adjunct Agents 
 - [x] Benzodiazepines (lorazepam, diazepam, midazolam; convert to lorazepam equivalents) 
