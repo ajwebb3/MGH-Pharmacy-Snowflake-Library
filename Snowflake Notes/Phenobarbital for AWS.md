@@ -30,7 +30,7 @@ tags:
 ### ADT
 - [x] length of ICU stay (days)
 - [x] length of hospital stay (days)
-- [ ] Self-directed Discharge (Y/N)
+- [x] Self-directed Discharge (Y/N)
 ### Problem List/ICD 
 - [x] Relevant Neurological PMH 
 - [x] History of alcohol use disorder 
