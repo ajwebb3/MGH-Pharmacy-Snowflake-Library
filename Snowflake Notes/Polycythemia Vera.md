@@ -28,5 +28,5 @@ tags:
 - [x] ESA administrations
 - [x] Iron labs
 - [x] Hemoglobin/hct
-- [ ] Thrombosis ICD10s
+- [x] Thrombosis ICD10s
 - [ ] Phlebotomy procedures
