@@ -21,6 +21,76 @@ tags:
 | **Please list the data elements you are requesting**   |     | - Patient demographics, <br>- dates of IV iron administration, <br>- formulation, <br>- dose, <br>- whether iron is checked before IV administration (what the levels are), <br>  - Most important before first dose<br>- concurrent ESA use, <br>  - Receipt within a month each administration<br>- HCT/HGB before and after, <br>  - Within 4 weeks for before dose<br>  - Some lag period after administration<br>- whether there is thrombosis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **Will you need statistical support?**                 |     | Yes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **Request Date**                                       |     | 12/10/25, 1:20 PM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+## Follow up email
+- Regarding ICD10 codes to pull
+Thank you so much! I used OE to generate the below. I also cross checked some manually and for heavy menses there are subcodes (like N92.1, N92.2 etc). Let me know if the broad category is enough or if I should include each possibility.
+
+**Heart Failure**
+
+**I50** is the primary code category for heart failure.[1] Specific codes include:
+
+- **I50.1** - Left ventricular failure, unspecified
+- **I50.2** - Systolic (congestive) heart failure (with subcodes I50.20-I50.23 for acute, chronic, and acute-on-chronic variants)
+- **I50.3** - Diastolic (congestive) heart failure (with subcodes I50.30-I50.33)
+- **I50.4** - Combined systolic and diastolic heart failure (with subcodes I50.40-I50.43)
+- **I50.81** - Right heart failure (with subcodes I50.810-I50.814)
+- **I50.9** - Heart failure, unspecified
+
+**Chronic Kidney Disease**
+
+**N18** - Chronic kidney disease (with stages specified by additional digits: N18.1 through N18.6 for stages 1-5 and end-stage renal disease)
+
+**Gastrointestinal Bleed**
+
+- **K92.2** - Gastrointestinal hemorrhage, unspecified
+- **K92.0** - Hematemesis
+- **K92.1** - Melena
+- Upper GI bleeding: **K25-K28** (peptic ulcer with hemorrhage)
+- Lower GI bleeding: **K62.5** (hemorrhage of anus and rectum)
+
+**Heavy Menstrual Bleeding**
+
+**N92.0** - Excessive and frequent menstruation with regular cycle (menorrhagia)
+
+**Vascular Malformation or Anomaly**
+
+- **Q27** - Other congenital malformations of peripheral vascular system
+- **I77.0** - Arteriovenous fistula, acquired
+- **I78** - Diseases of capillaries (including [hereditary hemorrhagic telangiectasia](https://www.openevidence.com/rare-disease/hereditary-hemorrhagic-telangiectasia))
+
+**Polycythemia Vera**
+
+**D45** - Polycythemia vera
+
+**Thrombosis**
+
+- **I82** - Other venous embolism and thrombosis (general category)
+- **I80** - Phlebitis and thrombophlebitis
+
+**Pulmonary Embolism**
+
+**I26** - Pulmonary embolism (with subcodes for acute and chronic)[2]
+
+**Deep Vein Thrombosis**
+
+**I82.4** - Acute embolism and thrombosis of deep veins of lower extremity[2]
+
+Arterial thrombosis: **I74** (arterial embolism and thrombosis)
+
+I hear you on thrombosis, we will do it manually but would be interesting to compare what can be captured by snowflake vs (Kate, Jess, & team)
+
+**For phlebotomy, we typically searched "phleb" in the chart and looked for the RN note. It is a procedure order as well but it is not always clear when it happens absent the note. For a sample patient, should I give MRN or particular screenshots?**
+
+_Summary:_
+
+_Let me know if MRN or other info for phleb example_
+
+_Totally get it re thrombosis_
+
+_Let me know if above ICD alright or need sub-categories_ 
+
+Thank you so much again!
+
 ## To Do
 - [x] Patient demographics
 - [x] PMH
@@ -29,4 +99,4 @@ tags:
 - [x] Iron labs
 - [x] Hemoglobin/hct
 - [x] Thrombosis ICD10s
-- [ ] Phlebotomy procedures
+- [x] Phlebotomy procedures
