@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,11 +220,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2ec96fe11ca834e",
+  "active": "4d66876437845f54",
   "lastOpenFiles": [
+    "Sex Codes.md",
     "Polycythemia Vera.md",
     "Scratch Notes for Clarity Transition.md",
-    "Sex Codes.md",
     "Phenobarbital for AWS.md",
     "conflict-files-obsidian-git.md",
     "MAR Action Codes.md",
