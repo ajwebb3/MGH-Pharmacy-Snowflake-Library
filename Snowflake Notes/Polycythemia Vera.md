@@ -24,8 +24,8 @@ tags:
 ## To Do
 - [ ] Patient demographics
 - [ ] PMH
-- [ ] IV iron administrations and information
-- [ ] ESA administrations
+- [x] IV iron administrations and information
+- [x] ESA administrations
 - [ ] Iron labs
 - [ ] Hemoglobin/hct
 - [ ] Thrombosis ICD10s

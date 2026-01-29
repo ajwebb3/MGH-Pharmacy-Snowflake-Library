@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polycythemia Vera.md",
+                "file": "Sex Codes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polycythemia Vera"
+              "title": "Sex Codes"
             }
           }
         ],
@@ -222,11 +222,11 @@
   },
   "active": "a2ec96fe11ca834e",
   "lastOpenFiles": [
+    "Polycythemia Vera.md",
     "Scratch Notes for Clarity Transition.md",
     "Sex Codes.md",
     "Phenobarbital for AWS.md",
     "conflict-files-obsidian-git.md",
-    "Polycythemia Vera.md",
     "MAR Action Codes.md",
     "Breakthrough Mold Infections.md",
     "Thrombosis and Hemostasis.md",
