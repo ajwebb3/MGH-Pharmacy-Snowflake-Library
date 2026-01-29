@@ -27,24 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polycthemia Vera.md",
+                "file": "Polycythemia Vera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polycthemia Vera"
+              "title": "Polycythemia Vera"
             }
           },
           {
             "id": "a2ec96fe11ca834e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "Polycythemia Vera.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "Polycythemia Vera"
             }
           }
         ],
@@ -224,7 +226,7 @@
     "Sex Codes.md",
     "Phenobarbital for AWS.md",
     "conflict-files-obsidian-git.md",
-    "Polycthemia Vera.md",
+    "Polycythemia Vera.md",
     "MAR Action Codes.md",
     "Breakthrough Mold Infections.md",
     "Thrombosis and Hemostasis.md",
