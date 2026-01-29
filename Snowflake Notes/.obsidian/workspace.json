@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Polycthemia Vera"
             }
+          },
+          {
+            "id": "a2ec96fe11ca834e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d66876437845f54",
+  "active": "a2ec96fe11ca834e",
   "lastOpenFiles": [
     "Scratch Notes for Clarity Transition.md",
     "Sex Codes.md",
