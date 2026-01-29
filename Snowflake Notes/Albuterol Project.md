@@ -10,3 +10,4 @@ tags:
 		- Assessing workload factors
 	- Albuterol inhaler dispensed but only used a small number of times
 	- Multiple inhalers dispensed to single patient
+	- Add Spiriva 
