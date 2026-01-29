@@ -2,4 +2,11 @@
 tags:
   - AdminProjects
 ---
-- 
+- Plan to minimize environmental impacts of inhaler therapies
+- Anthony Ishak has optimized outpatient prescribing of albuterol inhalers to smallest necessary inhaler
+- For inpatient formulary, we stock 8.6 g inhaler and there is interest in removing from formulary if there is a lot of waste
+- Data requested:
+	- How many inhalers are we dispensing that are not used
+		- Assessing workload factors
+	- Albuterol inhaler dispensed but only used a small number of times
+	- Multiple inhalers dispensed to single patient
