@@ -18,3 +18,6 @@ tags:
 ## Clinical.Acuity_Score_Specific
 - It's a little unclear as to what is different about this table
 - This also has registry_data_id and total_score, but lacks the rule_id that I would use to link to another table
+- A little more luck trying to link this "acuity_config", which I found has the parent acuity types rather than the individual rules
+	- The interlink is QM_GEN_INFO, with the linking column "acuity_system_id"
+	- Nevermind... this did not work
