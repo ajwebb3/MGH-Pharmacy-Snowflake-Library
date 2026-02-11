@@ -5,8 +5,9 @@ tags:
 - Ramy asked about trending or reporting RxAcuity scores with Snowflake
 - There seems to be several tables in Snowflake that relate to acuity scoring, but the documentation of what is what and how they link together is sparse, even in the Clarity dictionary
 - As an FYI, to link the acuity scoring tables to a patient, use this code:
-> left join edw_source_zone_clarity.clinical.QM_GEN_INFO t3 on t1.registry_data_id = t3.registry_data_id
-> left join edw_source_zone_clarity.clinical.rdi_pat_csn t4 on t1.registry_data_id = t4.registry_data_id
+	-  left join edw_source_zone_clarity.clinical.QM_GEN_INFO t3 on t1.registry_data_id = t3.registry_data_id
+	 - left join edw_source_zone_clarity.clinical.rdi_pat_csn t4 on t1.registry_data_id = t4.registry_data_id
+	 - With t3 here containing pat_id and t4 containing pat_csn
 ## Clinical.Acuity_Rule_Score
 - This was the first table I tried
 	- It has a few primary keys - registry_data_id and rule_id being the main ones I tried
