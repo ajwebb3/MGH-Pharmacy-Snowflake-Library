@@ -7,3 +7,6 @@ tags:
 - Main question is whether changes are working, specifically regarding changes when PTT are 90-150
 	- Are drops putting PE or stroke patients at risk?
 	- Aka, is the next value in range
+- Demographics, what nomogram was being used, where they started, and where they ended
+- Boluses?
+- Analyzed bolus nomograms separately 
