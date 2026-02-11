@@ -21,3 +21,7 @@ tags:
 - A little more luck trying to link this "acuity_config", which I found has the parent acuity types rather than the individual rules
 	- The interlink is QM_GEN_INFO, with the linking column "acuity_system_id"
 	- Nevermind... this did not work
+	- What about starting with QM_GEN_INFO?
+## Clinical.QM_GEN_INFO
+- This table too has a registry_data_id link, but no column for an actual score
+- Linking this to acuity_config does pull data on Rx Acuity scoring tools, so this may get me a little closer
