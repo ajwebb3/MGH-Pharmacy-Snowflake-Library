@@ -25,3 +25,7 @@ tags:
 ## Clinical.QM_GEN_INFO
 - This table too has a registry_data_id link, but no column for an actual score
 - Linking this to acuity_config does pull data on Rx Acuity scoring tools, so this may get me a little closer
+## Common.Major_Rules
+- Working backwards, it seems like major_rules is the link between the overall acuity score (ie Rx Acuity Overall) and the constituent rules
+- Here, major_rules_id links to rule_id of common.cl_chrg_edit_rule
+- Not sure how this helps me, but it's a start!
