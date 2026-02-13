@@ -3,12 +3,12 @@ tags:
   - Research
 ---
 - [ ] MRN
-- [ ] Age
-- [ ] DOB
-- [ ] Gender
-- [ ] Height
-- [ ] Weight
-- [ ] Race
+- [x] Age
+- [x] DOB
+- [x] Gender
+- [x] Height
+- [x] Weight
+- [x] Race
 - [ ] ADT
 - [ ] Meds
 - [ ] LFTs
