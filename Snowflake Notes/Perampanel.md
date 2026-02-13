@@ -2,3 +2,13 @@
 tags:
   - Research
 ---
+- [ ] MRN
+- [ ] Age
+- [ ] DOB
+- [ ] Gender
+- [ ] Height
+- [ ] Weight
+- [ ] Race
+- [ ] ADT
+- [ ] Meds
+- [ ] LFTs
