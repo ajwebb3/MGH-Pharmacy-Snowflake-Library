@@ -2,7 +2,7 @@
 tags:
   - Research
 ---
-- [ ] MRN
+- [x] MRN
 - [x] Age
 - [x] DOB
 - [x] Gender
