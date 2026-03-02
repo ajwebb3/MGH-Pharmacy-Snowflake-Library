@@ -38,17 +38,17 @@ tags:
 ## KCentra Data
 - [x] Order ID
 - [x] CSN
-- DOB
-- Age
-- Sex
-- Height
-- Weight
-- BMI
-- Kcentra Dose + Dose /kg
-- Date and time of kcentra order
+- [x] DOB
+- [x] Age
+- [x] Sex
+- [x] Height
+- [x] Weight
+- [x] BMI
+- [x] Kcentra Dose + Dose /kg
+- [x] Date and time of kcentra order
 - Date and time of kcentra verification
-- Date and tome of kcentra administration
-- Administration location
+- [x] Date and tome of kcentra administration
+- [x] Administration location
 - Dispense location
 - Provider Specialty
 - INR> 2 or TEG R-Time> 10
