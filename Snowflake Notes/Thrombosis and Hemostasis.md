@@ -36,8 +36,8 @@ tags:
 
 
 ## KCentra Data
-- Order ID
-- CSN
+- [x] Order ID
+- [x] CSN
 - DOB
 - Age
 - Sex
