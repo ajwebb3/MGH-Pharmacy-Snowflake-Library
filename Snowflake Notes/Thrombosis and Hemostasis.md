@@ -58,8 +58,8 @@ tags:
 - [x] TXA or aminocaproic acid running at the time of Kcentra admin
 - Fibrinogen >150 or Fibrinogen <1150 + Cryo is last 2 hours
 - Fibrinogen level- closest fibrinogen within the last 2 hours prior to Kcentra
-- Vitamin K given with in 2 hours of kcentra admin
-- Additional Kcentra given with in 24 hours
+- [x] Vitamin K given with in 2 hours of kcentra admin
+- [x] Additional Kcentra given with in 24 hours
 
 - Total units + Units/kg
 
