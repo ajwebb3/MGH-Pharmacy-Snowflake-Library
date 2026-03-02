@@ -51,13 +51,13 @@ tags:
 - [x] Administration location
 - Dispense location
 - Provider Specialty
-- INR> 2 or TEG R-Time> 10
-- Closest INR prior to KCentra administration
-- Hemoglobin <7 prior to Kcentra administration
-- Hemoglobin at the time of kcentra administration
+- [x] INR> 2 or TEG R-Time> 10
+- [x] Closest INR prior to KCentra administration
+- [x] Hemoglobin <7 prior to Kcentra administration
+- [x] Hemoglobin at the time of kcentra administration
 - [x] TXA or aminocaproic acid running at the time of Kcentra admin
-- Fibrinogen >150 or Fibrinogen <1150 + Cryo is last 2 hours
-- Fibrinogen level- closest fibrinogen within the last 2 hours prior to Kcentra
+- [x] Fibrinogen >150 or Fibrinogen <1150 + Cryo is last 2 hours
+- [x] Fibrinogen level- closest fibrinogen within the last 2 hours prior to Kcentra
 - [x] Vitamin K given with in 2 hours of kcentra admin
 - [x] Additional Kcentra given with in 24 hours
 
@@ -67,8 +67,8 @@ tags:
 - Time from verification to dispense
 - Time from verification to administration
 - Waste (If there was a dispense without administration)
-- Survival at discharge
-- Mortality date
+- [x] Survival at discharge
+- [x] Mortality date
 - RBC admin 4 hours prior to kcentra admin
 - RBC admin 4 hours after kcentra admin
 - PLT admin 4 hours prior to kcentra admin
