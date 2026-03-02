@@ -55,7 +55,7 @@ tags:
 - Closest INR prior to KCentra administration
 - Hemoglobin <7 prior to Kcentra administration
 - Hemoglobin at the time of kcentra administration
-- TXA or aminocaproic acid running at the time of Kcentra admin
+- [x] TXA or aminocaproic acid running at the time of Kcentra admin
 - Fibrinogen >150 or Fibrinogen <1150 + Cryo is last 2 hours
 - Fibrinogen level- closest fibrinogen within the last 2 hours prior to Kcentra
 - Vitamin K given with in 2 hours of kcentra admin
