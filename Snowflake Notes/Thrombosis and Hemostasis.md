@@ -69,11 +69,11 @@ tags:
 - Waste (If there was a dispense without administration)
 - [x] Survival at discharge
 - [x] Mortality date
-- RBC admin 4 hours prior to kcentra admin
-- RBC admin 4 hours after kcentra admin
-- PLT admin 4 hours prior to kcentra admin
-- PLT admin 4 hours after to kcentra admin
-- Cryo admin 4 hours prior to kcentra admin
-- Cryo admin 4 hours after to kcentra admin
-- FFP admin 4 hours prior to kcentra admin
-- FFP admin 4 hours after to kcentra admin
+- [x] RBC admin 4 hours prior to kcentra admin
+- [x] RBC admin 4 hours after kcentra admin
+- [x] PLT admin 4 hours prior to kcentra admin
+- [x] PLT admin 4 hours after to kcentra admin
+- [x] Cryo admin 4 hours prior to kcentra admin
+- [x] Cryo admin 4 hours after to kcentra admin
+- [x] FFP admin 4 hours prior to kcentra admin
+- [x] FFP admin 4 hours after to kcentra admin
