@@ -18,11 +18,11 @@ tags:
 ## To Process, 3/2
 - [x] ICU admit/discharge
 - [x] Number of ASMs used prior to PER
-- [ ] Number of active ASMs at the time of PER load
-- [ ] List of ASMs used prior to PER
+- [x] Number of active ASMs at the time of PER load
+- [x] List of ASMs used prior to PER
 - [x] AST/ALT/AP/SCr
 - [ ] Interacting meds
-- [ ] Duration of PER use
+- [x] Duration of PER use
 - [x] AST/ALT/AP/SCr 48h post load
 - [x] Hospital LOS
 - [x] ICU LOS
