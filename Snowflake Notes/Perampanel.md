@@ -9,7 +9,7 @@ tags:
 - [x] Height
 - [x] Weight
 - [x] Race
-- [ ] ADT
+- [x] ADT
 - [ ] Meds
 - [ ] LFTs
 - [ ] Dispo
