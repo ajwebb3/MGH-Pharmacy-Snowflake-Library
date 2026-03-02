@@ -17,7 +17,7 @@ tags:
 
 ## To Process, 3/2
 - [x] ICU admit/discharge
-- [ ] Number of ASMs used prior to PER
+- [x] Number of ASMs used prior to PER
 - [ ] Number of active ASMs at the time of PER load
 - [ ] List of ASMs used prior to PER
 - [x] AST/ALT/AP/SCr
