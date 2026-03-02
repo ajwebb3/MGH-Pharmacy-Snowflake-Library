@@ -33,4 +33,47 @@ tags:
 
 ## Repeat Meeting
 - Redcap created for metrics, meeting on 1/29 for more detail
-- 
+
+
+## KCentra Data
+- Order ID
+- CSN
+- DOB
+- Age
+- Sex
+- Height
+- Weight
+- BMI
+- Kcentra Dose + Dose /kg
+- Date and time of kcentra order
+- Date and time of kcentra verification
+- Date and tome of kcentra administration
+- Administration location
+- Dispense location
+- Provider Specialty
+- INR> 2 or TEG R-Time> 10
+- Closest INR prior to KCentra administration
+- Hemoglobin <7 prior to Kcentra administration
+- Hemoglobin at the time of kcentra administration
+- TXA or aminocaproic acid running at the time of Kcentra admin
+- Fibrinogen >150 or Fibrinogen <1150 + Cryo is last 2 hours
+- Fibrinogen level- closest fibrinogen within the last 2 hours prior to Kcentra
+- Vitamin K given with in 2 hours of kcentra admin
+- Additional Kcentra given with in 24 hours
+
+- Total units + Units/kg
+
+- Time from order placed to verification
+- Time from verification to dispense
+- Time from verification to administration
+- Waste (If there was a dispense without administration)
+- Survival at discharge
+- Mortality date
+- RBC admin 4 hours prior to kcentra admin
+- RBC admin 4 hours after kcentra admin
+- PLT admin 4 hours prior to kcentra admin
+- PLT admin 4 hours after to kcentra admin
+- Cryo admin 4 hours prior to kcentra admin
+- Cryo admin 4 hours after to kcentra admin
+- FFP admin 4 hours prior to kcentra admin
+- FFP admin 4 hours after to kcentra admin
