@@ -12,7 +12,7 @@ tags:
 - [x] ADT
 - [ ] Meds
 - [ ] LFTs
-- [ ] Dispo
+- [x] Dispo
 
 
 ## To Process, 3/2
@@ -26,4 +26,4 @@ tags:
 - [ ] AST/ALT/AP/SCr 48h post load
 - [x] Hospital LOS
 - [x] ICU LOS
-- [ ] Dispo
+- [x] Dispo
