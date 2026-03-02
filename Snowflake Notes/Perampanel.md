@@ -24,6 +24,6 @@ tags:
 - [ ] Interacting meds
 - [ ] Duration of PER use
 - [ ] AST/ALT/AP/SCr 48h post load
-- [ ] Hospital LOS
+- [x] Hospital LOS
 - [x] ICU LOS
 - [ ] Dispo
