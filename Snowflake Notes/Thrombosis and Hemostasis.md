@@ -50,7 +50,7 @@ tags:
 - [x] Date and tome of kcentra administration
 - [x] Administration location
 - Dispense location
-- Provider Specialty
+- [x] Provider Specialty
 - [x] INR> 2 or TEG R-Time> 10
 - [x] Closest INR prior to KCentra administration
 - [x] Hemoglobin <7 prior to Kcentra administration
@@ -61,7 +61,7 @@ tags:
 - [x] Vitamin K given with in 2 hours of kcentra admin
 - [x] Additional Kcentra given with in 24 hours
 
-- Total units + Units/kg
+- [x] Total units + Units/kg
 
 - Time from order placed to verification
 - Time from verification to dispense
