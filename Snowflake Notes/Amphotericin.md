@@ -22,12 +22,12 @@ Tiffany requesting ampho doses
 - [x] Response to question 1 (Column AU)
 - [x] Order question 2: "infection source" (Column AV)
 - [x] Response to question 2 (Column AW)
-- [ ] ICD 10 codes of the following:
-	- [ ] B46.0: Pulmonary mucormycosis
-	- [ ] B46.1: Rhinocerebral mucormycosis
-	- [ ] B46.2: Gastrointestinal mucormycosis
-	- [ ] B46.3: Cutaneous mucormycosis
-	- [ ] B46.4: Disseminated mucormycosis
-	- [ ] B46.5: Mucormycosis, unspecified
-	- [ ] B46.8: Other zygomycoses (includes other forms not specified)
-	- [ ] B46.9: Zygomycosis, unspecified
+- [x] ICD 10 codes of the following:
+	- [x] B46.0: Pulmonary mucormycosis
+	- [x] B46.1: Rhinocerebral mucormycosis
+	- [x] B46.2: Gastrointestinal mucormycosis
+	- [x] B46.3: Cutaneous mucormycosis
+	- [x] B46.4: Disseminated mucormycosis
+	- [x] B46.5: Mucormycosis, unspecified
+	- [x] B46.8: Other zygomycoses (includes other forms not specified)
+	- [x] B46.9: Zygomycosis, unspecified
