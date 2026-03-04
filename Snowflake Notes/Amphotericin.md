@@ -1,0 +1,33 @@
+---
+tags:
+  - Research
+---
+Tiffany requesting ampho doses
+
+- [ ] MRN (Column A)
+- [ ] Patient  Name (Column B)
+- [x] Encounter (Column C)
+- [ ] Age (Column D)
+- [x] Drug of interest is IV Amphotericin  
+- [x] Order ID (Column H)
+- [x] Dose (Column I)
+- [x] Unit in mg/kg (Column J)
+- [ ] Patient's weight/Dosing Weight (Column M)
+- [x] Start Date (Column R)
+- [x] Start Time (Column S)
+- [x] End Date (Column T)
+- [x] End Time (Column U)
+- [x] Site (Column AD) - looking mainly for BWH and MGH)
+- [x] Order Question 1 "Indication" (Column AT)
+- [x] Response to question 1 (Column AU)
+- [x] Order question 2: "infection source" (Column AV)
+- [x] Response to question 2 (Column AW)
+- [ ] ICD 10 codes of the following:
+	- [ ] B46.0: Pulmonary mucormycosis
+	- [ ] B46.1: Rhinocerebral mucormycosis
+	- [ ] B46.2: Gastrointestinal mucormycosis
+	- [ ] B46.3: Cutaneous mucormycosis
+	- [ ] B46.4: Disseminated mucormycosis
+	- [ ] B46.5: Mucormycosis, unspecified
+	- [ ] B46.8: Other zygomycoses (includes other forms not specified)
+	- [ ] B46.9: Zygomycosis, unspecified
