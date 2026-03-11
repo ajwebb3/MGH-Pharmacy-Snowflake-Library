@@ -46,10 +46,10 @@ tags:
 - [x] BMI
 - [x] Kcentra Dose + Dose /kg
 - [x] Date and time of kcentra order
-- Date and time of kcentra verification
+- [x] Date and time of kcentra verification
 - [x] Date and tome of kcentra administration
 - [x] Administration location
-- Dispense location
+- [x] Dispense location
 - [x] Provider Specialty
 - [x] INR> 2 or TEG R-Time> 10
 - [x] Closest INR prior to KCentra administration
