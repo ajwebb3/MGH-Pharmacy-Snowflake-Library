@@ -17,7 +17,7 @@ FROM EDW_SOURCE_ZONE_CLARITY.CLINICAL.PAT_ENC t1
 				LEFT JOIN EDW_SOURCE_ZONE_CLARITY.Clinical.Patient_2 t3 on t1.pat_id = t3.pat_id
 				LEFT JOIN EDW_SOURCE_ZONE_CLARITY.CLINICAL.PATIENT_RACE t4 on t1.pat_id = t4.pat_id
 				LEFT JOIN EDW_SOURCE_ZONE_CLARITY.COMMON.ZC_PATIENT_RACE t5 on t4.patient_race_c = t5.patient_race_c
-WHERE t3.pat_enc_csn_id in (' ') -- Encounter CSN
+WHERE t1.pat_enc_csn_id in (' ') -- Encounter CSN
 and t4.LINE = 1
 
 /** t2.EncounterTypeCD Dictionary **/
