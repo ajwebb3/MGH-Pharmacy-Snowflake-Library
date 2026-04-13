@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -248,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "487fd51abf97556e",
+  "active": "41cefb28776f63b8",
   "lastOpenFiles": [
     "BP Flowsheet Rows.md",
     "MAR Action Codes.md",
