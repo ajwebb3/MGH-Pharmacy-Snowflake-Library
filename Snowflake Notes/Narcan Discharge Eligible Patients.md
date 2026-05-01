@@ -20,18 +20,3 @@ Key At-Risk Patient Groups for Discharge Naloxone
 Thanks,
 
 Jackie
-
-Jacqueline Gagnon, RPh, PharmD, BCPS, FMSHP
-
-Director, Center for Drug Policy and Medication Use
-
-(she/ her/ hers)
-
-**Mass General Brigham**  
-T. (617) 643-8362
-
-F. (617) 726-6277
-
-[massgeneralbrigham.org](http://massgeneralbrigham.org/)
-
-Admin Assistant: Lesly Calderon- [lcalderon@mgh.harvard.edu](mailto:lcalderon@mgh.harvard.edu)
