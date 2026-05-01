@@ -8,77 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1a7ba91405c1a1d",
+            "id": "05668c0d381764d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch Notes for Clarity Transition.md",
+                "file": "Inpatient Encounters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scratch Notes for Clarity Transition"
+              "title": "Inpatient Encounters"
             }
           },
           {
-            "id": "4d66876437845f54",
+            "id": "a702f75efbd159f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polycythemia Vera.md",
+                "file": "Narcan Discharge Eligible Patients.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Polycythemia Vera"
-            }
-          },
-          {
-            "id": "8c01b83d5e520641",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amphotericin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amphotericin"
-            }
-          },
-          {
-            "id": "7641e97066509963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAR Action Codes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MAR Action Codes"
-            }
-          },
-          {
-            "id": "487fd51abf97556e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sex Codes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sex Codes"
+              "title": "Narcan Discharge Eligible Patients"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,15 +206,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "487fd51abf97556e",
+  "active": "a702f75efbd159f8",
   "lastOpenFiles": [
+    "Inpatient Encounters.md",
+    "Narcan Discharge Eligible Patients.md",
+    "Sex Codes.md",
     "Height Script.md",
     "BP Flowsheet Rows.md",
     "MAR Action Codes.md",
     "HCC Registry.md",
     "Amphotericin.md",
     "Thrombosis and Hemostasis.md",
-    "Sex Codes.md",
     "Perampanel.md",
     "Heparin Monitoring.md",
     "RX Acuity.md",
