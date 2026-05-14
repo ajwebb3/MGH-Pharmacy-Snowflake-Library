@@ -100,3 +100,11 @@ Thank you so much again!
 - [x] Hemoglobin/hct
 - [x] Thrombosis ICD10s
 - [x] Phlebotomy procedures
+
+
+## New Meeting Notes
+### For the current ~700 PV patients
+- Include hx of AC use or AP use
+	- OAC, warf/DOAC
+- Hx of AF
+- Hx of MI and AIS and other relevant ICD10 codes 
