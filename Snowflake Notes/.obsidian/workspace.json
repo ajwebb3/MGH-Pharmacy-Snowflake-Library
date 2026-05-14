@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Sex Codes"
             }
+          },
+          {
+            "id": "ac330ac07c888ba5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -248,7 +260,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "487fd51abf97556e",
+  "active": "ac330ac07c888ba5",
   "lastOpenFiles": [
     "Height Script.md",
     "BP Flowsheet Rows.md",
