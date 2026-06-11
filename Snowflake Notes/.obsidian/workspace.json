@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One Formulary Considerations.md",
+                "file": "Polycythemia Vera.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "One Formulary Considerations"
+              "title": "Polycythemia Vera"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "978e15221e0534a9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Phenobarbital for AWS.md",
     "One Formulary Considerations.md",
+    "conflict-files-obsidian-git.md",
     "Inpatient Notes.md",
     "Polycythemia Vera.md",
     "Narcan Discharge Eligible Patients.md",
@@ -211,7 +212,6 @@
     "RX Acuity.md",
     "Albuterol Project.md",
     "Scratch Notes for Clarity Transition.md",
-    "Phenobarbital for AWS.md",
     "Breakthrough Mold Infections.md",
     "Angiotensin II.md",
     "Welcome.md",
