@@ -9,3 +9,10 @@ tags:
 - Ambulatory Referral to MGH Primary Care Pharmacist 
 - Every 6 months reporting
 - A1C, BP, LDL
+
+
+## Data Sleuthing
+- clinical.order_proc hosts the referral orders
+	- display_name like 'Ambulatory Referral to MGH Primary Care Pharmacist%'
+	- This lists a CSN ID but does not seem to link to anything
+- clinical.referral_apt lists outpatient visits that originate from a referral, but do not seem to link back to the referral order
