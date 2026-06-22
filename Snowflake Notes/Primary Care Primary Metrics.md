@@ -6,3 +6,6 @@ tags:
 - Epic referral order is placed for pharmacist clinic
 	- PharmD see patients every 2-3 weeks
 - Patient follow up window is 3mo on average 
+- Ambulatory Referral to MGH Primary Care Pharmacist 
+- Every 6 months reporting
+- A1C, BP, LDL
