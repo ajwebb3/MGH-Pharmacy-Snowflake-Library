@@ -16,3 +16,4 @@ tags:
 	- display_name like 'Ambulatory Referral to MGH Primary Care Pharmacist%'
 	- This lists a CSN ID but does not seem to link to anything
 - clinical.referral_apt lists outpatient visits that originate from a referral, but do not seem to link back to the referral order
+- clinical.referral_order_id links order_proc_id to referral_id which can be linked to pat_enc_csn_id
