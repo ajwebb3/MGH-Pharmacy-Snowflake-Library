@@ -1,0 +1,4 @@
+- To get a multiple phrase regex to work in Snowflake, first you need to "collate" the column to flatten the text data 
+	- COLLLATE(COLUMN_NAME, '')
+- Then you call RLIKE and separate your terms with the SQL wildcard (".\*")
+- 

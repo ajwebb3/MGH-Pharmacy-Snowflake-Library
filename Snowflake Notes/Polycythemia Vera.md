@@ -100,3 +100,19 @@ Thank you so much again!
 - [x] Hemoglobin/hct
 - [x] Thrombosis ICD10s
 - [x] Phlebotomy procedures
+
+
+## New Meeting Notes
+### For the current ~700 PV patients
+- Include hx of AC use or AP use
+	- OAC, warf/DOAC
+- Hx of AF
+- Hx of MI and AIS and other relevant ICD10 codes 
+- Separate iron patients from non iron patients
+- Add MRN
+
+### MPN Overall Cohort
+- Question is whether patients with a history of MPN and they develop a clot
+- Basically incidence of thrombotic events in the past year who have an MPN
+	- AC, AP, etc
+- The intention is to understand incidence of thrombotic event in MPN
