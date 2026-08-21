@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "To Do Lists"
             }
+          },
+          {
+            "id": "176a0f581287e79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HIT MUE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HIT MUE"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,10 +250,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f35a58656ec171e",
+  "active": "176a0f581287e79c",
   "lastOpenFiles": [
-    "Sex Codes.md",
     "To Do Lists.md",
+    "HIT MUE.md",
+    "Sex Codes.md",
     "Scratch Notes for Clarity Transition.md",
     "Phenobarbital for AWS.md",
     "BP Flowsheet Rows.md",
