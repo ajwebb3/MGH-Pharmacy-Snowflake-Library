@@ -55,24 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scratch Notes for Clarity Transition.md",
+                "file": "To Do Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scratch Notes for Clarity Transition"
-            }
-          },
-          {
-            "id": "02cef9ab43584d2c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260722152020.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260722152020"
+              "title": "To Do Lists"
             }
           }
         ],
@@ -131,8 +119,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,6 +238,7 @@
   },
   "active": "6f35a58656ec171e",
   "lastOpenFiles": [
+    "Scratch Notes for Clarity Transition.md",
     "Phenobarbital for AWS.md",
     "BP Flowsheet Rows.md",
     "To Do Lists.md",
@@ -275,7 +263,6 @@
     "Heparin Monitoring.md",
     "RX Acuity.md",
     "Albuterol Project.md",
-    "Scratch Notes for Clarity Transition.md",
     "Breakthrough Mold Infections.md"
   ]
 }
