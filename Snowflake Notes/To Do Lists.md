@@ -5,5 +5,5 @@
 - [ ] LTG data
 - [ ] PRC student assignments
 - [ ] UPMC preceptor form
-- [ ] Stroke dotphrase
+- [x] Stroke dotphrase
 - [ ] Build mag panel
