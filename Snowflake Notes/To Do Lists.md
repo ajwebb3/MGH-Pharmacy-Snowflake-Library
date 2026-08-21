@@ -6,3 +6,4 @@
 - [ ] PRC student assignments
 - [ ] UPMC preceptor form
 - [ ] Stroke dotphrase
+- [ ] Build mag panel
