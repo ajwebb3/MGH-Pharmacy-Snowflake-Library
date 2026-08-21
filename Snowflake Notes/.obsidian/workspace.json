@@ -62,6 +62,18 @@
               "icon": "lucide-file",
               "title": "To Do Lists"
             }
+          },
+          {
+            "id": "02cef9ab43584d2c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260722152020.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260722152020"
+            }
           }
         ],
         "currentTab": 3
@@ -98,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calcium",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +131,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -237,13 +248,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41cefb28776f63b8",
+  "active": "6f35a58656ec171e",
   "lastOpenFiles": [
-    "Sex Codes.md",
+    "Pasted image 20260722152020.png",
+    "Order Set Names.md",
     "To Do Lists.md",
+    "Sex Codes.md",
     "MAR Action Codes.md",
     "Untitled.md",
-    "Pasted image 20260722152020.png",
     "Inpatient Notes.md",
     "Regular Expressions in Snowflake SQL.md",
     "Primary Care Primary Metrics.md",
@@ -263,8 +275,6 @@
     "RX Acuity.md",
     "Albuterol Project.md",
     "Scratch Notes for Clarity Transition.md",
-    "Breakthrough Mold Infections.md",
-    "Angiotensin II.md",
-    "Welcome.md"
+    "Breakthrough Mold Infections.md"
   ]
 }
