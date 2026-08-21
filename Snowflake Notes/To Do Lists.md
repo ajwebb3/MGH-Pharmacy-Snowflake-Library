@@ -4,3 +4,5 @@
 - [ ] Iman peds data
 - [ ] LTG data
 - [ ] PRC student assignments
+- [ ] UPMC preceptor form
+- [ ] Stroke dotphrase
