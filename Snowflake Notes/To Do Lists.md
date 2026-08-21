@@ -2,8 +2,8 @@
 - [x] Calcium data
 - [ ] TPN data
 - [ ] Iman peds data
-- [ ] LTG data
+- [x] LTG data
 - [ ] PRC student assignments
-- [ ] UPMC preceptor form
+- [x] UPMC preceptor form
 - [x] Stroke dotphrase
 - [x] Build mag panel
