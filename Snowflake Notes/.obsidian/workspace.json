@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Sex Codes"
             }
+          },
+          {
+            "id": "f47ae8a838f8fa45",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7b8dee8f8baf4528",
+  "active": "f47ae8a838f8fa45",
   "lastOpenFiles": [
     "MAR Action Codes.md",
     "Untitled.md",
