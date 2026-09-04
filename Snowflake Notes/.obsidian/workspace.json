@@ -11,10 +11,14 @@
             "id": "753200850ac58c0e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "To Do Lists.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "To Do Lists"
             }
           }
         ]
