@@ -10,7 +10,7 @@
 
 ## 09/04/2026
 - [ ] TPN data
-- [ ] Dig data
+- [x] Dig data
 - [ ] HIT data
 - [x] RRT data
 - [x] AJHP
