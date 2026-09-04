@@ -1,7 +1,7 @@
 ## 08/21/26
 - [x] Calcium data
 - [ ] TPN data
-- [ ] Iman peds data
+- [x] Iman peds data
 - [x] LTG data
 - [x] PRC student assignments
 - [x] UPMC preceptor form
@@ -13,4 +13,4 @@
 - [ ] Dig data
 - [ ] HIT data
 - [ ] RRT data
-- [ ] 
+- [x] AJHP
