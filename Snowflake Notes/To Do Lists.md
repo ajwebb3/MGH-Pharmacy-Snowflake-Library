@@ -12,5 +12,5 @@
 - [ ] TPN data
 - [ ] Dig data
 - [ ] HIT data
-- [ ] RRT data
+- [x] RRT data
 - [x] AJHP
