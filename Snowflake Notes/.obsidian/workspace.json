@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Height Script"
             }
+          },
+          {
+            "id": "b2267909ceabbdcc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1a7ba91405c1a1d",
+  "active": "b2267909ceabbdcc",
   "lastOpenFiles": [
     "Scratch Notes for Clarity Transition.md",
     "Polycthemia Vera.md",
