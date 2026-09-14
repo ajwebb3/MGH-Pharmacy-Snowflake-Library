@@ -33,8 +33,7 @@
               "title": "Release Notes 1.12.7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2267909ceabbdcc",
+  "active": "d1a7ba91405c1a1d",
   "lastOpenFiles": [
     "Scratch Notes for Clarity Transition.md",
     "Polycthemia Vera.md",
