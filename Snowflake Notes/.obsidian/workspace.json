@@ -22,18 +22,21 @@
             }
           },
           {
-            "id": "b2267909ceabbdcc",
+            "id": "98763558f463896c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -203,8 +208,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1a7ba91405c1a1d",
+  "active": "7ed2d0d70030f92c",
   "lastOpenFiles": [
+    "Height Script.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "To Do Lists.md",
+    "Pasted image 20260722152020.png",
+    "Order Set Names.md",
+    "Inpatient Notes.md",
+    "HIT MUE.md",
     "Scratch Notes for Clarity Transition.md",
     "Polycthemia Vera.md",
     "Regular Expressions in Snowflake SQL.md",
@@ -216,20 +229,13 @@
     "Narcan Discharge Eligible Patients.md",
     "Inpatient Encounters.md",
     "Heparin Monitoring.md",
-    "Height Script.md",
     "HCC Registry.md",
     "BP Flowsheet Rows.md",
     "Amphotericin.md",
     "Albuterol Project.md",
     "Sex Codes.md",
     "Phenobarbital for AWS.md",
-    "conflict-files-obsidian-git.md",
     "MAR Action Codes.md",
-    "Breakthrough Mold Infections.md",
-    "Thrombosis and Hemostasis.md",
-    "Angiotensin II.md",
-    "Welcome.md",
-    "Untitled.md",
-    "ICU LOS R Code.md"
+    "Breakthrough Mold Infections.md"
   ]
 }

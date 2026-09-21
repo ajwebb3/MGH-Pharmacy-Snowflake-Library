@@ -26,3 +26,7 @@ tags:
                 left join edw_source_zone_clarity.clinical.referral_order_id as t2 on t1.order_proc_id = t2.order_id
                 inner join edw_source_zone_clarity.clinical.referral_apt as t3 on t2.referral_id = t3.referral_id                
 where display_name like 'Ambulatory Referral to MGH Primary Care Pharmacist%'****
+
+
+## Meeting with Ramy
+![[Pasted image 20260722152020.png]]- Started in May
