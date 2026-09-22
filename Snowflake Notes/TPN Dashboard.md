@@ -58,7 +58,7 @@ Melissa
 	- [x] Poor renal function (GFR <30)
 	- Poor glycemic control
 	- SMOFLipid need
-		- Elevated LFT
-		- Elevated trig
+		- [x] Elevated LFT
+		- [x] Elevated trig
 		- Long term PN use
 		- Inflammatory states
