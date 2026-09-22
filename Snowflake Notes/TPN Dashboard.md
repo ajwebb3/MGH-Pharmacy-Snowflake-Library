@@ -36,10 +36,10 @@ Melissa
 	- Allergies (egg, soy, or peanut)
 	- Duration of therapy (not feasible to pull automatically)
 	- Baseline electrolytes
-		- K
-		- PO4
-		- Mg
-		- "Acid base disorders"
+		- [x] K
+		- [x] PO4
+		- [x] Mg
+		- [x] "Acid base disorders"
 	- "Electrolyte wasting conditions"
 		- Diarrhea
 		- Ostomy
@@ -54,7 +54,7 @@ Melissa
 		- Foscarnet
 		- Cisplatin
 		- Ifosfomide
-	- Fluid restrition
+	- Fluid restriction
 	- Poor renal function (GFR <30)
 	- Poor glycemic control
 	- SMOFLipid need
