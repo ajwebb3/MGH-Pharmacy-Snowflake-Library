@@ -33,7 +33,7 @@ Melissa
 	- Determine percent on custom vs Clinimix
 	- Pull relevant baseline labs that might be important
 - Data elements pertinent to Clinimix eligibility
-	- Allergies (egg, soy, or peanut)
+	- [x] Allergies (egg, soy, or peanut)
 	- Duration of therapy (not feasible to pull automatically)
 	- Baseline electrolytes
 		- [x] K
@@ -55,7 +55,7 @@ Melissa
 		- Cisplatin
 		- Ifosfomide
 	- Fluid restriction
-	- Poor renal function (GFR <30)
+	- [x] Poor renal function (GFR <30)
 	- Poor glycemic control
 	- SMOFLipid need
 		- Elevated LFT
