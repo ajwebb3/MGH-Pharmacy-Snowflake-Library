@@ -50,10 +50,10 @@ Melissa
 		- "High protein requirements"
 		- Custom additives needed
 	- Medications that may worsen wasting
-		- Ampho
-		- Foscarnet
-		- Cisplatin
-		- Ifosfomide
+		- [x] Ampho
+		- [x] Foscarnet
+		- [x] Cisplatin
+		- [x] Ifosfomide
 	- Fluid restriction
 	- [x] Poor renal function (GFR <30)
 	- Poor glycemic control
