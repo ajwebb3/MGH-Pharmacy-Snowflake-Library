@@ -62,3 +62,7 @@ Melissa
 		- [x] Elevated trig
 		- Long term PN use
 		- Inflammatory states
+
+## Meeting with Melissa 9/24
+- Trying to get a handle on TPN utilization 
+- Long term would like to design infra
