@@ -65,4 +65,4 @@ Melissa
 
 ## Meeting with Melissa 9/24
 - Trying to get a handle on TPN utilization 
-- Long term would like to design infra
+- Long term would like to design infrastructure to assess appropriate use for new guidelines/med approvals
