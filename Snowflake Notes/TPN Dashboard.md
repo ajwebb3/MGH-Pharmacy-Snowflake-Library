@@ -33,13 +33,13 @@ Melissa
 	- Determine percent on custom vs Clinimix
 	- Pull relevant baseline labs that might be important
 - Data elements pertinent to Clinimix eligibility
-	- Allergies (egg, soy, or peanut)
+	- [x] Allergies (egg, soy, or peanut)
 	- Duration of therapy (not feasible to pull automatically)
 	- Baseline electrolytes
-		- K
-		- PO4
-		- Mg
-		- "Acid base disorders"
+		- [x] K
+		- [x] PO4
+		- [x] Mg
+		- [x] "Acid base disorders"
 	- "Electrolyte wasting conditions"
 		- Diarrhea
 		- Ostomy
@@ -50,15 +50,19 @@ Melissa
 		- "High protein requirements"
 		- Custom additives needed
 	- Medications that may worsen wasting
-		- Ampho
-		- Foscarnet
-		- Cisplatin
-		- Ifosfomide
-	- Fluid restrition
-	- Poor renal function (GFR <30)
+		- [x] Ampho
+		- [x] Foscarnet
+		- [x] Cisplatin
+		- [x] Ifosfomide
+	- Fluid restriction
+	- [x] Poor renal function (GFR <30)
 	- Poor glycemic control
 	- SMOFLipid need
-		- Elevated LFT
-		- Elevated trig
+		- [x] Elevated LFT
+		- [x] Elevated trig
 		- Long term PN use
 		- Inflammatory states
+
+## Meeting with Melissa 9/24
+- Trying to get a handle on TPN utilization 
+- Long term would like to design infrastructure to assess appropriate use for new guidelines/med approvals
