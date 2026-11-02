@@ -27,3 +27,8 @@ Copy of research protocol can be found here: [CIN Research Proposal Draft.docx](
 	- RASS -4 for two consecutive readings prior to cefepime initiation
 	- Benzo >20 mg within 48 hours of initiation 
 
+
+## Pull Plan
+- Start with all adult cefepime doses at MGH (cefe_dose)
+- Pull patient info bas
+
