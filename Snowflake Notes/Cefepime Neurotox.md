@@ -7,5 +7,11 @@ Copy of research protocol can be found here: [CIN Research Proposal Draft.docx](
 
 ## Inclusion Criteria
 - Adult patients
-- Admitted to M
+- Admitted to MGH between 2016-2026
+- Received cefepime
+
+## Exclusion Criteria
+- Positive delirium screen within 48 hours of beta lactam initiation
+	- +CAM-ICU
+	- 
 
