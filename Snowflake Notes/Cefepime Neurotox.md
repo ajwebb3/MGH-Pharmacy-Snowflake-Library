@@ -31,5 +31,11 @@ Copy of research protocol can be found here: [CIN Research Proposal Draft.docx](
 ## Pull Plan
 - Start with all adult cefepime doses at MGH (cefe_dose)
 - Pull patient info based on CSNs from dose table
-- 
+- Pull flowsheet rows based on patient ID and date
+	- CAM ICU
+	- GCS
+	- RASS
+- Pull restraint orders based on patient ID and date
+- Pull ICD 10 codes
+- Pull benzo and sedation orders
 
